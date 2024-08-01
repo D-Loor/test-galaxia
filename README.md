@@ -20,15 +20,19 @@
 ## Manual de Usuario
 
 1.- Para registrar un alias a un número romano debe ingresar:
+
     Nombre-Unidad 'es' Número-Romano  Ejemplo: glob es I
     
 2.- Para agregar una nueva unidad intergaláctica debe ingresar:
+
     Alias-Unidad 'es' Cantidad 'Créditos'  Ejemplo: glob glob Silver es 34 Créditos
     
 3.- Para calcular una suma de números romanos debe ingresar:
+
     '¿Cuánto es' Alias1 Alias2 ...'?'  Ejemplo: ¿Cuánto es pish tegj glob glob?
     
 4.- Para consultar el crédito de una unidad intergaláctica por alias debe ingresar:
+
     '¿Cuántos créditos tiene' Alias1 Alias2 ... Unidad-Intergaláctica '?'
     Ejemplo: ¿Cuántos créditos tiene glob prok Silver?
                 
